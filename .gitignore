@@ -1,4 +1,10 @@
-DEVELOPMENT_PLAN.md
-PROJECT_STRUCTURE.md
-notification-system-design.md
-TODO.md
+# Ignore OS files
+.DS_Store
+Thumbs.db
+*.suo
+*.user
+
+# Ignore build and lock logs
+logs
+*.log
+npm-debug.log*
