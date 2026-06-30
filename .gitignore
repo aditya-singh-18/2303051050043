@@ -8,3 +8,6 @@ Thumbs.db
 logs
 *.log
 npm-debug.log*
+
+# Ignore public directory containing screenshots
+public/
