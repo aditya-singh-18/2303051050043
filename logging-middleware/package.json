@@ -1,0 +1,17 @@
+{
+  "name": "logging-middleware",
+  "version": "1.0.0",
+  "description": "Reusable logging middleware for the AffordMed Campus Evaluation",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "keywords": [
+    "logging",
+    "middleware",
+    "affordmed"
+  ],
+  "author": "",
+  "license": "ISC"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "notification-app-be",
+  "version": "1.0.0",
+  "description": "Backend scripting tools and endpoints for the AffordMed Campus Evaluation",
+  "main": "priority_inbox.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node priority_inbox.js",
+    "dev": "node priority_inbox.js",
+    "priority": "node priority_inbox.js",
+    "auth": "node auth.js",
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "keywords": [
+    "backend",
+    "priority",
+    "affordmed"
+  ],
+  "author": "",
+  "license": "ISC"
+}
